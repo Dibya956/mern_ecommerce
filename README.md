@@ -1,7 +1,7 @@
 <h1 align="center">E-Commerce Store 🛒</h1>
 
 
-About This Course:
+About This Project:
 
 -   🚀 Project Setup
 -   🗄️ MongoDB & Redis Integration
